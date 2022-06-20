@@ -12,13 +12,9 @@
      --sofia:"Sofia", cursive;
  }
 
- .primary-color{
+ /* .primary-color{
      color: var(--primary-color);
- }
-
- .bg-primary-color{
-     background-color: var(--primary-color)!important;
- }
+ } */
 
  .text-color{
      color: var(--text-color);
@@ -60,18 +56,10 @@ header.site-title{
     padding: 0.8em 0em;
 }
 
-.navbar-nav.nav-link{
-    font-size: 0.9em;
-    color: var(--light-gray)!important;
-}
-
 .navbar-nav .nav-item .nav-link{
   padding: 0 1.3em;  
 } 
 
-.navbar-nav .basket-icon{
-    margin-right: 6.5rem !important;
-}
 
 /* Slider */
 
